@@ -1,10 +1,22 @@
 # LowPolyPy
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/maschere/6c789d70bbdaed2d89e1742f9d50a508/lowpolypy.ipynb)
 
 Generate Low-Poly Versions of Images:
 
-![](samples.png)
+![Samples](samples.jpg)
 
-## Getting Started
+## Work In Progress
+
+This repo is being overhauled and new features are being added.
+
+The Colab notebook and setup instructions may not work at the moment.
+
+## Run it on Colab
+[Run this notebook in Google Colab](https://colab.research.google.com/gist/maschere/6c789d70bbdaed2d89e1742f9d50a508/lowpolypy.ipynb) to get started quickly.
+
+Thanks to [@maschere](https://gist.github.com/maschere/6c789d70bbdaed2d89e1742f9d50a508) for putting this notebook together!
+
+## Run Locally
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
